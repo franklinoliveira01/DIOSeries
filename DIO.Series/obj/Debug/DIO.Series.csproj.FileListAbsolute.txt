@@ -1,0 +1,7 @@
+C:\Users\VM-BOX\source\repos\DIO.Series\obj\Debug\DIO.Series.csprojAssemblyReference.cache
+C:\Users\VM-BOX\source\repos\DIO.Series\obj\Debug\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\VM-BOX\source\repos\DIO.Series\bin\Debug\DIO.Series.exe.config
+C:\Users\VM-BOX\source\repos\DIO.Series\bin\Debug\DIO.Series.exe
+C:\Users\VM-BOX\source\repos\DIO.Series\bin\Debug\DIO.Series.pdb
+C:\Users\VM-BOX\source\repos\DIO.Series\obj\Debug\DIO.Series.exe
+C:\Users\VM-BOX\source\repos\DIO.Series\obj\Debug\DIO.Series.pdb
